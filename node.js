@@ -13,7 +13,8 @@ const form = document.getElementById('form');
 const search = document.getElementById('search');
 const result = document.getElementById('result');
 
-const apiURL = 'https://www.azlyrics.com/';
+const 
+apiURL = 'https://www.azlyrics.com/';
 
 // GET INPUT VALUE
 form.addEventListener('submit', (e)=>{
